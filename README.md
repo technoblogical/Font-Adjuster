@@ -5,7 +5,7 @@ Just a simple little jQuery script to automatically adjust text to be about 75 c
 by <a href='https://plus.google.com/104536213394512642005?rel=author'>Chris Walker</a><br/>
 
 ##How Does This Thing Work?
-Well, it's pretty easy.
+Well, it's pretty easy.<br/>
 1. Download the file font-adjuster.js from here.<br/>
 2. Include it in your theme somewhere.<br/>
 3. Link to it somewhere in your theme.<br/>
