@@ -23,7 +23,7 @@ If you want larger text divide by a larger number. If you want smaller text divi
 I wish I could remember where I first saw this, but I don't. It seems like the following link is where I saw where to use <a href='http://mikeyanderson.com/optimal_characters_per_line'>optimal characters per line</a> in a web page. I found it from <a href='http://dustn.tv/stunning-reading-experience/'>Dustin Stout</a>. Who's awesome by the way. I don't get half of what he says, but he's still worth following. 
 
 ##### License
-Copyright (c) 2013 Chris Walker
+Copyright (c) 2014 by some dude not wearing pants
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
