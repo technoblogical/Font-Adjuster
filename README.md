@@ -6,10 +6,10 @@ by <a href='https://plus.google.com/104536213394512642005?rel=author'>Chris Walk
 
 ##How Does This Thing Work?
 Well, it's pretty easy.
-1. Download the file font-adjuster.js from here.
-2. Include it in your theme somewhere.
-3. Link to it somewhere in your theme.
-4. Start using rem in CSS for all your text sizes.
+1. Download the file font-adjuster.js from here.<br/>
+2. Include it in your theme somewhere.<br/>
+3. Link to it somewhere in your theme.<br/>
+4. Start using rem in CSS for all your text sizes.<br/>
 5. Quit using Internet Explorer 8!
 
 ### Why is this here?
